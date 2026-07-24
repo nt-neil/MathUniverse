@@ -1,0 +1,23 @@
+# OS artifacts / 作業系統產物
+.DS_Store
+Thumbs.db
+
+# Editor files / 編輯器暫存檔
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local logs and scratch / 本機日誌與暫存
+*.log
+scratch/
+
+# Local agent/tool state (never commit) / 本機 AI 工具狀態(不得提交)
+.agent-team/
+.claude/settings.local.json
+
+# Environment secrets (never commit) / 環境變數與金鑰(不得提交)
+.env
+.env.*
+*.pem
+*.key

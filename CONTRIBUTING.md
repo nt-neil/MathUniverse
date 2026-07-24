@@ -15,6 +15,7 @@
 2. **誠實定位**:本專案不宣稱解決了任何未解問題。AI 產出的內容需標註並經人工查證。
 3. **語言**:內容以繁體中文為主,數學術語附英文原文;也歡迎純英文貢獻,我們會協助翻譯。
 4. **格式**:難題檔案遵循 `problems/_template.md` 的結構。
+5. **安全 / Security**:請勿提交 API 金鑰、token、私人檔案路徑(如 `/Users/<name>/...`)或個人聯絡資訊;CI 會用 Gitleaks 自動掃描每個 PR。Never commit API keys, tokens, private file paths, or personal contact info — CI scans every PR with Gitleaks.
 
 ## 流程
 

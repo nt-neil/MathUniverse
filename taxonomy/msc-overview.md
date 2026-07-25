@@ -41,6 +41,11 @@
 - 計算數學(Computational Mathematics)
 - 密碼學(後量子密碼 Post-Quantum Cryptography)
 
+## 完整分類樹
+
+本 repo 已收錄 MSC2020 完整分類(63 個一級、534 個二級、6,006 個三級與通用條目),
+依一級分類分檔,見 **[taxonomy/msc/](./msc/README.md)**。
+
 ## 參考資源
 
 - [MSC 2020 官方分類表(zbMATH)](https://zbmath.org/classification/)

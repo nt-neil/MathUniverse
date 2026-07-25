@@ -68,4 +68,4 @@ Contributors: never commit API keys, tokens, private file paths (e.g. `/Users/<n
 
 ## 授權
 
-內容採 [CC BY 4.0](LICENSE) 授權。
+內容採 [CC BY 4.0](LICENSE) 授權。**例外**:`taxonomy/msc/` 目錄收錄的 MSC2020 分類資料 © Mathematical Reviews(AMS)與 zbMATH,依 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 散布,詳見 [taxonomy/msc/LICENSE-MSC.md](taxonomy/msc/LICENSE-MSC.md)。

@@ -39,11 +39,16 @@
 | [Collatz 猜想(3n+1)](problems/number-theory/collatz/) | 數論/動態系統 | 未解決 |
 | [掛谷猜想 Kakeya Conjecture](problems/analysis/kakeya/) | 調和分析/幾何測度論 | 部分解決(3 維情形於 2025 年證明) |
 
+### 更多難題:總目錄
+
+上面兩張表只是深度檔案層。**[catalog/ 未解難題總目錄](catalog/)** 以領域分檔收錄了 **246 題**(數論、代數、幾何拓樸、分析 PDE、組合圖論、邏輯集合論、計算複雜度、機率動態物理),外加[著名難題名單總覽](catalog/famous-lists.md)(希爾伯特 23 題、Smale 18 題、Landau 4 題逐題現況)。每題狀態經網路查證,2020 年代的重大變動(如掛谷 3 維已證、雅可比猜想 2026 年宣稱反例)都已標註。
+
 ## 專案結構
 
 ```
+catalog/     未解難題總目錄:一題一列的百科索引層(246 題)
+problems/    深度檔案層:一題一資料夾(格式見 problems/_template/README.md)
 taxonomy/    數學研究領域的分類地圖(MSC)
-problems/    每個難題一份結構化檔案(格式見 problems/_template/README.md)
 ai/          AI 如何協助數學研究的方法論與工具
 ```
 

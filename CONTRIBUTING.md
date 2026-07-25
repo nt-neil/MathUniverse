@@ -5,7 +5,7 @@
 ## 你可以做的事
 
 - **補充最新進展**:某個難題有新論文、新突破?在該難題檔案的「進展時間線」加一列,附上可查證的來源(arXiv、期刊、可信媒體)。
-- **新增難題**:複製 `problems/_template.md`,放到對應領域的資料夾,並在 README 的總表加上連結。
+- **新增難題**:複製 `problems/_template/README.md`,放到對應領域的資料夾,並在 README 的總表加上連結。
 - **修正錯誤**:數學陳述、翻譯、連結失效,都歡迎開 PR 或 issue。
 - **AI 實驗**:用 AI 做的反例搜索、形式化驗證、文獻分析,結果(含失敗的)可放進 `ai/` 並在對應難題檔案連結。
 
@@ -14,7 +14,7 @@
 1. **來源優先**:任何「已證明/已推進」的聲明都必須附可查證出處。預印本(arXiv)要註明尚未經同儕審查。
 2. **誠實定位**:本專案不宣稱解決了任何未解問題。AI 產出的內容需標註並經人工查證。
 3. **語言**:內容以繁體中文為主,數學術語附英文原文;也歡迎純英文貢獻,我們會協助翻譯。
-4. **格式**:難題檔案遵循 `problems/_template.md` 的結構。
+4. **格式**:難題檔案遵循 `problems/_template/README.md` 的結構。
 5. **安全 / Security**:請勿提交 API 金鑰、token、私人檔案路徑(如 `/Users/<name>/...`)或個人聯絡資訊;CI 會用 Gitleaks 自動掃描每個 PR。Never commit API keys, tokens, private file paths, or personal contact info — CI scans every PR with Gitleaks.
 
 ## 流程

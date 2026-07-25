@@ -22,28 +22,28 @@
 
 | 難題 | 領域 | 狀態 |
 |---|---|---|
-| [黎曼猜想 Riemann Hypothesis](problems/millennium/riemann-hypothesis.md) | 數論/分析 | 未解決 |
-| [P vs NP](problems/millennium/p-vs-np.md) | 計算複雜度 | 未解決 |
-| [Birch–Swinnerton-Dyer 猜想](problems/millennium/birch-swinnerton-dyer.md) | 數論/代數幾何 | 未解決 |
-| [Hodge 猜想](problems/millennium/hodge-conjecture.md) | 代數幾何 | 未解決 |
-| [Navier–Stokes 存在性與光滑性](problems/millennium/navier-stokes.md) | 偏微分方程 | 未解決 |
-| [Yang–Mills 存在性與質量間隙](problems/millennium/yang-mills.md) | 數學物理 | 未解決 |
-| [龐加萊猜想 Poincaré Conjecture](problems/millennium/poincare-conjecture.md) | 拓樸 | ✅ 已解決(Perelman, 2003) |
+| [黎曼猜想 Riemann Hypothesis](problems/millennium/riemann-hypothesis/) | 數論/分析 | 未解決 |
+| [P vs NP](problems/millennium/p-vs-np/) | 計算複雜度 | 未解決 |
+| [Birch–Swinnerton-Dyer 猜想](problems/millennium/birch-swinnerton-dyer/) | 數論/代數幾何 | 未解決 |
+| [Hodge 猜想](problems/millennium/hodge-conjecture/) | 代數幾何 | 未解決 |
+| [Navier–Stokes 存在性與光滑性](problems/millennium/navier-stokes/) | 偏微分方程 | 未解決 |
+| [Yang–Mills 存在性與質量間隙](problems/millennium/yang-mills/) | 數學物理 | 未解決 |
+| [龐加萊猜想 Poincaré Conjecture](problems/millennium/poincare-conjecture/) | 拓樸 | ✅ 已解決(Perelman, 2003) |
 
 ### 其他著名難題
 
 | 難題 | 領域 | 狀態 |
 |---|---|---|
-| [哥德巴赫猜想 Goldbach Conjecture](problems/number-theory/goldbach.md) | 數論 | 未解決 |
-| [孿生質數猜想 Twin Prime Conjecture](problems/number-theory/twin-primes.md) | 數論 | 未解決 |
-| [Collatz 猜想(3n+1)](problems/number-theory/collatz.md) | 數論/動態系統 | 未解決 |
-| [掛谷猜想 Kakeya Conjecture](problems/analysis/kakeya.md) | 調和分析/幾何測度論 | 部分解決(3 維情形於 2025 年證明) |
+| [哥德巴赫猜想 Goldbach Conjecture](problems/number-theory/goldbach/) | 數論 | 未解決 |
+| [孿生質數猜想 Twin Prime Conjecture](problems/number-theory/twin-primes/) | 數論 | 未解決 |
+| [Collatz 猜想(3n+1)](problems/number-theory/collatz/) | 數論/動態系統 | 未解決 |
+| [掛谷猜想 Kakeya Conjecture](problems/analysis/kakeya/) | 調和分析/幾何測度論 | 部分解決(3 維情形於 2025 年證明) |
 
 ## 專案結構
 
 ```
 taxonomy/    數學研究領域的分類地圖(MSC)
-problems/    每個難題一份結構化檔案(格式見 problems/_template.md)
+problems/    每個難題一份結構化檔案(格式見 problems/_template/README.md)
 ai/          AI 如何協助數學研究的方法論與工具
 ```
 

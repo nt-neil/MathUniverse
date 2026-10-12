@@ -1,5 +1,7 @@
 # 數學世界 MathUniverse
 
+[English](README.en.md) | **繁體中文**
+
 > 用開源與 AI 的力量,系統性記錄、分析、追蹤這個世界上最困難的數學問題。
 
 **English summary**: *MathUniverse* (數學世界, "Math World") is an open-source, AI-assisted knowledge base that documents the world's hardest open problems in mathematics — their statements, history, current status, and the latest research developments — written primarily in Traditional Chinese with English terminology. Contributions welcome.
